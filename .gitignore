@@ -1,0 +1,22 @@
+/Blackmon.ged
+/Eichelberger.ged 
+/Eichelberger_Tree.ged
+/api_key.txt
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
